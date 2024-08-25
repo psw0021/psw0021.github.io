@@ -1,9 +1,9 @@
 # Site settings
-name: name
-email: email
+name: Home
+email: jackson0530@yonsei.ac.kr
 url: url
-description: "A blog and a portfolio"
-author: "author"
+description: "Blog and projects and studies"
+author: "Sangwoo Park"
 title: "BlogFolio"
 permalink: pretty
 baseurl: ""
@@ -13,4 +13,4 @@ github:
   username: psw0021
 
 twitter:
-  username: username
+  username: @SangwooSC30
