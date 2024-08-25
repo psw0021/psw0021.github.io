@@ -28,9 +28,12 @@ body {
 
 .is-rounded {
   border-radius: 3%;
+  max-width: 100%; /* Scale down the image to fit the container */
+  height: auto;    /* Maintain aspect ratio */
 }
 
 .hero.is-primary {
   background-color: #FF8C69;
   color: white;
 }
+
