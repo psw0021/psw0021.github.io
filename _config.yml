@@ -1,1 +1,4 @@
-
+remote_theme: jekyll/minima
+title: My Awesome Site
+description: A simple site using the Minima theme
+theme: minima
