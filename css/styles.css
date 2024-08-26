@@ -31,6 +31,10 @@ body {
 }
 
 .hero.is-primary {
+  background-image: url('../assets/portfolio_website_background_resized.jpg');
+  background-size: cover; /* 이미지 크기를 전체 화면에 맞춤 */
+  background-position: center; /* 이미지가 화면 가운데에 위치하도록 설정 */
+  background-repeat: no-repeat; /* 이미지 반복을 막음 */
   background-color: #69dcff;
   color: white;
 }
