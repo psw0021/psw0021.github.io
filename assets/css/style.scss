@@ -55,7 +55,7 @@ a { text-decoration:none; }
         width: 100%;
         position: relative;
         margin: 3rem auto;
-        background-color: var(--theme5-origin);
+        background-color: var(--font-dark);
 
         &:before {
             content:"";
@@ -76,7 +76,7 @@ a { text-decoration:none; }
         left:50%;
         transform: translate(-50%, -50%);
         border-radius:50%;
-        border: 4px solid var(--theme3-dark);
+        border: 4px solid var(--font-dark);
     }
 
     .profile-zone .personal-info {
