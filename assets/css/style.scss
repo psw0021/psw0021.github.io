@@ -177,8 +177,19 @@ a { text-decoration:none; }
     .name-zone p {
         margin-top: 2rem 3rem;  /* Adjust margin if necessary */
         color: var(--font-dark);  /* Match the color with other text elements */
-        font-size: 1.2rem;  /* Adjust font size as needed */
         max-width: 60%;  
+    }
+
+    .About {
+            width: 80%;          /* Set the width to 80% of the viewport width */
+            max-width: 600px;   /* Optional: Limit the maximum width to 600px */
+            margin: 0 auto;     /* Center the division horizontally */
+            padding: 1rem;      /* Add some padding inside the division */
+            background-color: #f0f0f0; /* Light gray background */
+            border: 1px solid #ccc; /* Optional: Add a border */
+            border-radius: 8px; /* Optional: Round the corners */
+            text-align: center;  /* Center the text inside the division */
+        }
     }
 }
 
