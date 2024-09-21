@@ -20,6 +20,7 @@
     --theme4-dim: #5C8876;
     --theme4-dark: #3D725D;
     --theme5-origin: #4169E1;
+    --theme5-silver: #C0C0C0;
     --font-dark: #202424;
 }
 
@@ -277,7 +278,7 @@ a { text-decoration:none; }
     em { padding: 0 4px 0 1px; }
 
     a { 
-        color: var(--theme4-dark); 
+        color: var(--theme5-silver); 
         text-decoration: underline 1px;
         text-underline-position: under;
     }
@@ -288,7 +289,7 @@ a { text-decoration:none; }
         margin:0 2px;
         padding:1px 5px;
         font-size: 14px;
-        border: 1px solid var(--theme3-dim);
+        border: 1px solid var(--theme5-silver);
         background-color:var(--color-background);
         border-radius:3px;
         font-family:'Courier New', Courier, monospace;
@@ -319,7 +320,7 @@ a { text-decoration:none; }
     font-size: 14px;
 
     a { 
-        color: var(--theme1-dark);
+        color: var(--theme5-silver);
         font-weight: 600;
     }
 }
@@ -443,7 +444,7 @@ a { text-decoration:none; }
         li:hover, li.active {
             padding-left: 24px;
             padding-right: 12px;
-            background: var(--theme1-medium);
+            background: var(--theme5-silver);
 
             a { color:var(--font-dark); }
         }
