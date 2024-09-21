@@ -175,9 +175,10 @@ a { text-decoration:none; }
     .name-zone h1 { color: var(--font-dark); }
     .name-zone h2 { color: var(--font-dark); }
     .name-zone p {
-        margin-top: 1rem;  /* Adjust margin if necessary */
+        margin-top: 2rem 3rem;  /* Adjust margin if necessary */
         color: var(--font-dark);  /* Match the color with other text elements */
         font-size: 1.2rem;  /* Adjust font size as needed */
+        max-width: 60%;  
     }
 }
 
