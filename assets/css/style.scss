@@ -171,7 +171,15 @@ a { text-decoration:none; }
     
     .name-zone h1 { color: var(--font-dark); }
     .name-zone h2 { color: var(--font-dark); }
-    .name-zone p {color: var(--font-dark);text-align: center;}
+    .name-zone .box {
+        width: 300px; /* Width of the box */
+        height: 150px; /* Height of the box */
+        border: none;
+        display: flex; /* Use Flexbox to center */
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        text-align: center; /* Optional: Center text within the box */
+    }
 }
 
 #contents{
