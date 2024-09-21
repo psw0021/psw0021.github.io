@@ -315,7 +315,7 @@ a { text-decoration:none; }
 
 #footer {
     padding: 1rem;
-    background: var(--theme3-medium);
+    background: var(--theme5-origin);
     font-size: 14px;
 
     a { 
@@ -333,7 +333,7 @@ a { text-decoration:none; }
         width: 3px;
         height: 100%;
         margin-top: -64px;
-        background: var(--theme3-medium);
+        background: var(--theme5-origin);
     }
 
     #about { 
@@ -385,7 +385,7 @@ a { text-decoration:none; }
             border: none;
 
             div {
-                background: var(--theme3-dim);
+                background: var(--theme5-origin);
                 border-radius: 50%;
                 position: absolute;
                 top: -16px;
@@ -430,7 +430,7 @@ a { text-decoration:none; }
             margin-right: 0;
             padding: 4px 24px 4px 12px;
             border-radius: 8px 0 0 8px;
-            background: var(--theme3-medium);
+            background: var(--theme5-origin);
             transition: all 0.5s;
             cursor: pointer;
 
