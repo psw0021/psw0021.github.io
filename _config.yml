@@ -1,16 +1,31 @@
-# Site settings
-name: Home
+title: Title of your CV site
+profile_img: /assets/img/Sangwoo_profile.webp
+icon_img: /assets/img/icon.webp
+
+name: "Samgwoo Park"
+job: " AI Researcher, Machine Learning Engineer"
+
+phone_number: 010-9086-7651
+address: Seoul, South Korea
 email: jackson0530@yonsei.ac.kr
-url: url
-description: "Sangwoo's Blog and studies"
-author: "Sangwoo Park"
-title: "Sangwoo's Blog"
-permalink: pretty
-baseurl: ""
+linkedin_username: linkedin
+github_username: github
+instagram_username: 
+twitter_username: twitter
+facebook_username: facebook
+youtube_username: youtube
+blog_url: homepage-url
 
-# social
-github:
-  username: psw0021
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
+baseurl:
 
-twitter:
-  username: SangwooSC30
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
