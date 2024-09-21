@@ -162,7 +162,10 @@ a { text-decoration:none; }
         li:nth-child(10) { margin-left: 5.25rem; }
     }
     
-    .name-zone { margin-top: -2rem; }
+    .name-zone { margin-top: -2rem; flex-direction: column;  /* Stack elements vertically */
+        align-items: center;     /* Center horizontally */
+        justify-content: center; /* Center vertically */
+        text-align: center; }
 
     .name-zone h1, 
     .name-zone h2 {
@@ -171,14 +174,10 @@ a { text-decoration:none; }
     
     .name-zone h1 { color: var(--font-dark); }
     .name-zone h2 { color: var(--font-dark); }
-    .name-zone .box {
-        width: 300px; /* Width of the box */
-        height: 150px; /* Height of the box */
-        border: none;
-        display: flex; /* Use Flexbox to center */
-        justify-content: center; /* Center horizontally */
-        align-items: center; /* Center vertically */
-        text-align: center; /* Optional: Center text within the box */
+    .name-zone p {
+        margin-top: 1rem;  /* Adjust margin if necessary */
+        color: var(--font-dark);  /* Match the color with other text elements */
+        font-size: 1.2rem;  /* Adjust font size as needed */
     }
 }
 
