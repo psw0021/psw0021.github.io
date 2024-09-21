@@ -1,22 +1,14 @@
 subject: Experiences
-listing-order: 2
+listing-order: 3
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
-    description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+  - title: Yonsei DLI Lab NLP GROUP
+    role: Research Intern
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - participated in NLP Medical AI project to enhance diagnosis of Alzheimer
+        disease, using CoT prompting of Large Language Models to collect filtered medical data which later on was
+        distilled to smaller language models securing stability and both efficiency.
+      - Major participant in research project aiming to build a framework that
+        can enhance the reasoning capabilities of Large Language Models as decision making agents in Website
+        environment, without the use of reinforcement learning or imitation learning.
+    date: Jul. 2023 - Jul. 2024
