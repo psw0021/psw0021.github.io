@@ -3,5 +3,6 @@ listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Yonsei University, BS in Computer Science
-    grade: "**GPA**: `4.11/4.3`"
+    grade: "**GPA**: '4.11/4.3`"
+    ranking: "**Ranking**: `6/177`"
     date: Mar. 2021 - On going
