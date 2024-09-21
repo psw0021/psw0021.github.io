@@ -19,6 +19,7 @@
     --theme4-medium: #7FA093;
     --theme4-dim: #5C8876;
     --theme4-dark: #3D725D;
+    --theme5-origin: #4169E1;
     --font-dark: #202424;
 }
 
@@ -54,7 +55,7 @@ a { text-decoration:none; }
         width: 100%;
         position: relative;
         margin: 3rem auto;
-        background-color: var(--theme4-medium);
+        background-color: var(--theme5-origin);
 
         &:before {
             content:"";
