@@ -2,5 +2,5 @@ subject: Languages
 listing-order: 6
 icon: "/assets/img/globe.svg"
 contents:
-  - title: "Korean ('*Native*'): <span style='color: silver; margin: auto 8px; font-family: cursive;'>●●●●●</span>"
-  - title: "English ('*Proficient*'): <span style='color: cornflowerblue; margin: auto 8px; font-family: cursive;'>●●●●○</span>"
+  - title: "Korean ('*Native*'): <span style='color: royal blue; margin: auto 8px; font-family: cursive;'>●●●●●</span>"
+  - title: "English ('*Proficient*'): <span style='color: royal blue; margin: auto 8px; font-family: cursive;'>●●●●○</span>"
