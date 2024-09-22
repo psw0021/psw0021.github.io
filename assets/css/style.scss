@@ -21,6 +21,7 @@
     --theme4-dark: #3D725D;
     --theme5-origin: #4169E1;
     --theme5-silver: #C0C0C0;
+    --theme5-white: white;
     --font-dark: #202424;
 }
 
@@ -296,7 +297,7 @@ a { text-decoration:none; }
     em { padding: 0 4px 0 1px; }
 
     a { 
-        color: var(--theme5-silver); 
+        color: var(--font-dark); 
         text-decoration: underline 1px;
         text-underline-position: under;
     }
@@ -338,7 +339,7 @@ a { text-decoration:none; }
     font-size: 14px;
 
     a { 
-        color: var(--theme5-silver);
+        color: var(--theme5-white);
         font-weight: 600;
     }
 }
@@ -454,7 +455,7 @@ a { text-decoration:none; }
             cursor: pointer;
 
             a {     
-                color: var(--theme5-silver);
+                color: var(--theme5-white);
                 text-shadow: 1px 1px 1px rgba(255,255,255,0.75); 
             }
         }
