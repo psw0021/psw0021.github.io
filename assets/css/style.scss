@@ -262,7 +262,7 @@ a { text-decoration:none; }
             left: -56px;
             width: 16px;
             aspect-ratio: 1.0;
-            background: var(--theme5-silver);
+            background: var(--theme5-origin);
             border-radius: 50%;
         }
 
@@ -308,7 +308,7 @@ a { text-decoration:none; }
         margin:0 2px;
         padding:1px 5px;
         font-size: 14px;
-        border: 1px solid var(--theme5-silver);
+        border: 1px solid var(--theme5-origin);
         background-color:var(--color-background);
         border-radius:3px;
         font-family:'Courier New', Courier, monospace;
