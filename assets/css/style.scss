@@ -78,7 +78,7 @@ a { text-decoration:none; }
         left:50%;
         transform: translate(-50%, -50%);
         border-radius:50%;
-        border: 4px solid var(--theme5-white);
+        border: 4px solid var(--font-dark);
     }
 
     .profile-zone .personal-info {
@@ -262,7 +262,7 @@ a { text-decoration:none; }
             left: -56px;
             width: 16px;
             aspect-ratio: 1.0;
-            background: var(--theme5-white);
+            background: var(--theme5-origin);
             border-radius: 50%;
         }
 
