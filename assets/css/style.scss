@@ -463,9 +463,9 @@ a { text-decoration:none; }
         li:hover, li.active {
             padding-left: 24px;
             padding-right: 12px;
-            background: var(--theme5-silver);
+            background: var(--theme5-white);
 
-            a { color:var(--font-dark); }
+            a { color:var(--theme5-origin); }
         }
     }
 
