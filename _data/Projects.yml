@@ -12,10 +12,10 @@ contents:
     image: 
   - title: "Software Capstone Design (2) Project"
     description: 
-      - Participated in university-wise academic paper project (not published) based on thesis: The utilization
-        of offline-generated external-memory would enhance the decision making process of agents in
-        website environment on unseen websites, which jointly researched with DLI lab as research intern
+      - Participated in university-wise academic paper project (not published), jointly researched with DLI lab as research intern
         position.
+      - "Thesis: 'The utilization of offline-generated external-memory would enhance the decision making process of agents in
+        website environment on unseen websites'"
       - Awarded with excellence prize from the University
       - "Tools Used: Python, Pytorch, Javascript, Playwright, Dockers"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
+    image: 
