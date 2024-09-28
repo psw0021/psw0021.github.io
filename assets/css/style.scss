@@ -47,7 +47,7 @@ a { text-decoration:none; }
 
 #sidebar{ display: none; }
 
-#about, #contents, #footer { text-align:center; }
+#contents, #footer { text-align:center; }
 
 #about{
     width: 100%;
@@ -57,7 +57,7 @@ a { text-decoration:none; }
         width: 100%;
         position: relative;
         margin: 3rem auto;
-        background-color: var(--theme5-origin);
+        
 
         &:before {
             content:"";
