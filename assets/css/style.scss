@@ -71,12 +71,12 @@ a { text-decoration:none; }
     }
 
     .profile-zone .profile-img {
-        width:240px;
-        aspect-ratio:1.0;
+        width: 240px;
+        aspect-ratio: 1.0;
         position: absolute;
-        top:50%;
-        left:20%;
-        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 0; /* Aligns image to the left */
+        transform: translateY(-50%); /* Only vertically centers the image */
     }
 
     .profile-zone .personal-info {
