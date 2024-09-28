@@ -1,7 +1,0 @@
-subject: Languages
-listing-order: 7
-icon: "/assets/img/globe.svg"
-contents:
-  - title: "Korean ('*Native*'): <span style='color: royal blue; margin: auto 8px; font-family: cursive;'>●●●●●</span>"
-  - title: "English ('*Proficient*'): <span style='color: royal blue; margin: auto 8px; font-family: cursive;'>●●●●○</span>"
-    toefl_score: "**IBT TOEFL**: `105/120`"
