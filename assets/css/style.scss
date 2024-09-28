@@ -124,6 +124,41 @@ a { text-decoration:none; }
                 }
             }
         }
+
+        li { height: 40px; }
+
+        li:nth-child(n+1):nth-child(-n+5) { 
+            text-align: right; 
+
+            img { 
+                order: 1; 
+                margin-right: 0.5rem;
+            }
+
+            div { order: 2; }
+        }
+
+        li:nth-child(n+6):nth-child(-n+10) { 
+            text-align: left; 
+
+            img { 
+                order: 2; 
+                margin-left: 0.5rem;
+            }
+
+            div { order: 1; }
+        }
+
+        li:nth-child(1) { margin-right: 5.25rem; }
+        li:nth-child(2) { margin-right: 6.25rem; }
+        li:nth-child(3) { margin-right: 6.75rem; }
+        li:nth-child(4) { margin-right: 6.25rem; }
+        li:nth-child(5) { margin-right: 5.25rem; }
+        li:nth-child(6) { margin-left: 5.25rem; }
+        li:nth-child(7) { margin-left: 6.25rem; }
+        li:nth-child(8) { margin-left: 6.75rem; }
+        li:nth-child(9) { margin-left: 6.25rem; }
+        li:nth-child(10) { margin-left: 5.25rem; }
     }
     
     .name-zone { margin-top: -2rem; flex-direction: column;  /* Stack elements vertically */
@@ -144,7 +179,14 @@ a { text-decoration:none; }
         max-width: 60%;  
     }
 
-
+    .About {
+            width: 80%;          /* Set the width to 80% of the viewport width */
+            max-width: 600px;   /* Optional: Limit the maximum width to 600px */
+            margin: 0 auto;     /* Center the division horizontally */
+            padding: 1rem;      /* Add some padding inside the division */
+            border: none; /* Optional: Add a border */
+            border-radius: 8px; /* Optional: Round the corners */
+            text-align: center;  /* Center the text inside the division */}
     
 }
 
