@@ -23,29 +23,35 @@
   <div id="sidebar">
     <ul class="toc-box"></ul>
   </div>
-  <div id="about">
-    <div class="profile-zone">
-      <img class="profile-img" src="{{ site.profile_img | prepend: site.baseurl }}" alt="My Photo">
-      <ul class="personal-info">
-        {% if site.phone_number %}
-        <li><a aria-label="My Phone">
-          <img src="{{ '/assets/img/phone.svg' | prepend: site.baseurl }}" alt="My Phone Number">
-          <div><span>{{ site.phone_number }}</span></div>
-        </a></li>
-        {% endif %}
-        {% if site.address %}
-        <li><a aria-label="My Address" href="https://www.google.com/maps/search/{{ site.address }}">
-          <img src="{{ '/assets/img/location-dot.svg' | prepend: site.baseurl }}" alt="My Address">
-          <div><span>{{ site.address }}</span></div>
-        </a></li>
-        {% endif %}
-        {% if site.email %}
-          <li><a aria-label="My Email" href="mailto:{{ site.email }}">
-            <img src="{{ '/assets/img/envelope.svg' | prepend: site.baseurl }}" alt="My Email">
-            <div><span>{{ site.email }}</span></div>
-          </a></li>
-        {% endif %}
-        {% if site.linkedin_username %}
+  <div id="about"></div>
+    <div class="profile-container">
+        <div class="profile-zone">
+            <img class="profile-img" src="{{ site.profile_img | prepend: site.baseurl }}" alt="My Photo">
+            <div class="name-zone">
+                <h1>{{ site.name }}</h1>
+                <h2>{{ site.job }}</h2>
+            </div>
+        </div>
+        <ul class="personal-info">
+            {% if site.phone_number %}
+            <li><a aria-label="My Phone">
+                <img src="{{ '/assets/img/phone.svg' | prepend: site.baseurl }}" alt="My Phone Number">
+                <div><span>{{ site.phone_number }}</span></div>
+            </a></li>
+            {% endif %}
+            {% if site.address %}
+            <li><a aria-label="My Address" href="https://www.google.com/maps/search/{{ site.address }}">
+                <img src="{{ '/assets/img/location-dot.svg' | prepend: site.baseurl }}" alt="My Address">
+                <div><span>{{ site.address }}</span></div>
+            </a></li>
+            {% endif %}
+            {% if site.email %}
+            <li><a aria-label="My Email" href="mailto:{{ site.email }}">
+                <img src="{{ '/assets/img/envelope.svg' | prepend: site.baseurl }}" alt="My Email">
+                <div><span>{{ site.email }}</span></div>
+            </a></li>
+            {% endif %}
+            {% if site.linkedin_username %}
           <li><a aria-label="My LinkedIn" href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
             <img src="{{ '/assets/img/linkedin.svg' | prepend: site.baseurl }}" alt="My LinkedIn">
             <div><span>@{{ site.linkedin_username }}</span></div>
@@ -63,37 +69,10 @@
             <div><span>@{{ site.twitter_username }}</span></div>
           </a></li>
         {% endif %}
-        {% if site.instagram_username %}
-          <li><a aria-label="My Instagram" href="https://www.instagram.com/{{ site.instagram_username }}">
-            <img src="{{ '/assets/img/instagram.svg' | prepend: site.baseurl }}" alt="My Instagram">
-            <div><span>@{{ site.instagram_username }}</span></div>
-          </a></li>
-        {% endif %}
-        {% if site.facebook_username %}
-          <li><a aria-label="My Facebook" href="https://www.facebook.com/{{ site.facebook_username }}">
-            <img src="{{ '/assets/img/facebook.svg' | prepend: site.baseurl }}" alt="My Facebook">
-            <div><span>@{{ site.facebook_username }}</span></div>
-          </a></li>
-        {% endif %}
-        {% if site.youtube_username %}
-          <li><a aria-label="My Youtube" href="https://www.youtube.com/{{ site.youtube_username }}">
-            <img src="{{ '/assets/img/youtube.svg' | prepend: site.baseurl }}" alt="My Youtube">
-            <div><span>@{{ site.youtube_username }}</span></div>
-          </a></li>
-        {% endif %}
-        {% if site.blog_url %}
-          <li><a aria-label="My Blog" href="{{ site.blog_url }}">
-            <img src="{{ '/assets/img/house.svg' | prepend: site.baseurl }}" alt="My Blog">
-            <div><span>{{ site.blog_url }}</span></div>
-          </a></li>
-        {% endif %}
-      </ul>
+        <!-- Add your social links like LinkedIn, GitHub, etc. -->
+        </ul>
     </div>
-    <div class="name-zone">
-      <h1>{{ site.name }}</h1>
-      <h2>{{ site.job }}</h2>
-    </div>
-  </div>
+</div>
   <div id="contents">
     <ul>
       {% for subject in meta %}
