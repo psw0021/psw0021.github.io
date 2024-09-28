@@ -161,10 +161,14 @@ a { text-decoration:none; }
         li:nth-child(10) { margin-left: 5.25rem; }
     }
     
-    .name-zone { margin-top: -2rem; flex-direction: column;  /* Stack elements vertically */
-        align-items: center;     /* Center horizontally */
-        justify-content: center; /* Center vertically */
-        text-align: center; }
+    .name-zone {margin-top: -2rem;
+        display: flex;
+        flex-direction: column;  /* Stack elements vertically */
+        align-items: flex-start; /* Align to the left */
+        justify-content: center; /* Center vertically if needed */
+        text-align: center;        /* Align text to the left */
+        max-width: 100%;         /* Optional: adjust the width */
+    }
 
     .name-zone h1, 
     .name-zone h2 {
