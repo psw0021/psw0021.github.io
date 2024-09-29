@@ -4,19 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+👏Thank You for visiting my website👏 My name is Sangwoo Park, and I am currently an undergraduate student at Yonsei University, majoring in computer science. I am planning on to become Machine Learning Engineer/ AI researcher. My research interests are reinforcement learning, multimodal learning, and generative AIs. In particular, I am interested in coherent agent decision making in various domains.
 
-## Research Interests
+## Education
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **[Mar. 2021 ~ ongoing]** Yonsei University, Department of Computer Science
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jul. 2024]** I finished my research internship at Yonsei University DLI lab.
 
 {% include_relative _includes/publications.md %}
 
