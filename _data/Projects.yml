@@ -1,0 +1,21 @@
+subject: Projects
+listing-order: 6
+icon: "/assets/img/clipboard-list.svg"
+contents:
+  - title: "Sporting Video Analysis project ([https://github.com/psw0021/Sporting_video_sequential_analysis](https://github.com/psw0021/Sporting_video_sequential_analysis))"
+    description: 
+      - Team Leader for in-class project for Theory and Practice Of Deep Learning (AAI3201.01-00)
+      - Developed video classification framework integrating 3D CNN models and Gated Recurrent Neural networks
+        through dividing frames of videos, later fine tuned on custom dataset
+      - Evaluated on massive sporting video dataset UCF 101.
+      - "Tools Used: Python, Pytorch" 
+    image: 
+  - title: "Software Capstone Design (2) Project"
+    description: 
+      - Participated in university-wise academic paper project (not published), jointly researched with DLI lab as research intern
+        position.
+      - "Thesis: 'The utilization of offline-generated external-memory would enhance the decision making process of agents in
+        website environment on unseen websites'"
+      - Awarded with excellence prize from the University
+      - "Tools Used: Python, Pytorch, Javascript, Playwright, Dockers"
+    image: 

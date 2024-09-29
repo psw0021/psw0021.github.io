@@ -1,0 +1,5 @@
+subject: About
+listing-order: 1
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - description: ✨Thanks for visiting my website!✨ My name is Sangwoo Park, and I am currently an undergraduate student at Yonsei University. I am planning to on to become Machine Learning Engineer/ AI researcher. My research interests are reinforcment learning, multimodal learning, and generative AIs. In particular, I am interested in agent decision making in complex/simulated environments, like for instance, internet.
