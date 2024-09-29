@@ -24,12 +24,10 @@ layout: homepage
 - **[Aug. 2021]** Yonsei University 2021-1 Honors(top 10% of students in their respective field of study)
 
 ## Experience
-- Yonsei University DLI Lab NLP Group Research Internship **[Jul. 2023 ~ Jul. 2024]**
+- **Yonsei University DLI Lab NLP Group Research Internship [Jul. 2023 ~ Jul. 2024]**
     - Participated in NLP Medical AI project to enhance diagnosis of Alzheimer disease, using CoT prompting on Large Language Models to collect filtered diagnostic
     data later distilled to smaller language models securing both stability and efficiency.
     - Major participant in research project aiming to build a framework that can enhance the reasoning capabilities of Large Language Models as decision making agents in real-world website environment, without use of reinforcement learning, reducing the need of heavy computing resources.
 
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
