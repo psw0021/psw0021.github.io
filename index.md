@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-👏Thank You for visiting my website👏 My name is Sangwoo Park, and I am currently an undergraduate student at Yonsei University, majoring in computer science. My goal is to become Machine Learning Engineer/ AI research scientist. My research interests are mainly reinforcement learning, multimodal learning, and generative AIs. I am particularly interested in coherent embodied agent decision making in various domains, including generalization of agent decision making across various domains, not being confined to single task or single environment. As such, inverse reinforcement learning and meta reinforcement learning seems to be an attractive domain of research to work on. Furthermore, I am also interested in diffusion models and its applications incorporated into multimodal learning and reinforcement learning.
+👏Thank You for visiting my website👏 My name is Sangwoo Park, and I am currently an undergraduate student at Yonsei University, majoring in computer science. My goal is to become Machine Learning Engineer/ AI research scientist. My research interests are mainly reinforcement learning, multimodal learning, and generative AIs. I am particularly interested in coherent embodied agent decision making in various domains, including generalization of agent decision making across various domains(i.e. Computer Tasks, Games, Medical Domain), not being confined to single task or single environment. As such, inverse reinforcement learning and meta reinforcement learning seems to be an attractive domain of research to work on. Furthermore, I am also interested in diffusion models(Speech/Music Generation) and its applications incorporating into multimodal learning and reinforcement learning.
 
 ## Education
 
@@ -26,7 +26,7 @@ layout: homepage
 ## Experience
 - **Yonsei University DLI Lab NLP Group Research Internship [Jul. 2023 ~ Jul. 2024]**
     - Participated in NLP Medical AI project to enhance diagnosis of Alzheimer disease, using CoT prompting on Large Language Models to collect filtered diagnostic
-    data later distilled to smaller language models securing both stability and efficiency.
+    data, which was later distilled to smaller language models securing both stability and efficiency.
     - Major participant in research project aiming to build a framework that can enhance the reasoning capabilities of Large Language Models as decision making agents in real-world website environment, without use of reinforcement learning, reducing the need of heavy computing resources.
 
 
