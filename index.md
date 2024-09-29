@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-👏Thank You for visiting my website👏 My name is Sangwoo Park, and I am currently an undergraduate student at Yonsei University, majoring in computer science. My goal is to become Machine Learning Engineer/ AI researcher. My research interests are mainly reinforcement learning, multimodal learning, and generative AIs. In particular, I am interested in coherent agent decision making in various domains. Moreover, I am interested in generalization of agent decision making across various domains, not being confined to single task or single environment. I am particularly interested in web navigation domain. For that I am currently interested in inverse reinforcement learning and meta reinforcement learning. Furthermore, I am also interested in diffusion models and its applications corporated into multimodal learning and other various areas of research.
+👏Thank You for visiting my website👏 My name is Sangwoo Park, and I am currently an undergraduate student at Yonsei University, majoring in computer science. My goal is to become Machine Learning Engineer/ AI research scientist. My research interests are mainly reinforcement learning, multimodal learning, and generative AIs. I am particularly interested in coherent embodied agent decision making in various domains, including generalization of agent decision making across various domains, not being confined to single task or single environment. As such, inverse reinforcement learning and meta reinforcement learning seems to be an attractive domain of research to work on. Furthermore, I am also interested in diffusion models and its applications incorporated into multimodal learning and reinforcement learning.
 
 ## Education
 

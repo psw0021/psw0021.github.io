@@ -45,6 +45,8 @@
 
         <h1>{{ site.title }}</h1>
 
+        {% if site.location %}
+        <position style="font-size:1.8rem;">{{ site.location }}</position>
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
