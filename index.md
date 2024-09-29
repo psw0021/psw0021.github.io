@@ -8,7 +8,8 @@ layout: homepage
 
 ## Education
 
-- **Yonsei University, Department of Computer Science [Mar. 2021 ~ ongoing]** 
+- **B.S in Yonsei University, Seoul(South Korea)**
+    - **Major:** *Department of Computer Science* (Mar. 2021 ~ ongoing)
     - **GPA:** 4.11/4.3
 
 ## News
