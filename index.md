@@ -16,6 +16,7 @@ layout: homepage
 ## News
 - **[Oct. 2024]** I started my research internship at KAIST MLAI lab.
 - **[Jul. 2024]** I finished my research internship at Yonsei University DLI lab.
+- **[June. 2023]** I started my research internship at Yonsei University DLI lab.
 
 ## Awards
 - **[Aug. 2024]** Yonsei University 2024-1 Distinguished Honors(top 1% of students in their respective field of study)
