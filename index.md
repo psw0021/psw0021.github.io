@@ -4,16 +4,17 @@ layout: homepage
 
 ## About Me
 
-👏Thank You for visiting my website👏 My name is Sangwoo Park, and I am currently an undergraduate student at Yonsei University, majoring in computer science. My goal is to become Machine Learning Engineer/ AI research scientist. My research interests are mainly reinforcement learning, multimodal learning, and generative AIs along with Natural Language Processing. I am particularly interested in coherent agent reasoning/decision making in various domains, especially generalization of agents' overall abilities across various applications, not being confined to single task or environment. As such, inverse reinforcement learning, meta learning, multimodal learning seems to be an attractive domain to work on. In addition, I am also interested in diffusion models and its applications towards various domains and modalities, which can be deployed to handle real-world tasks.
+👏Thank You for visiting my website👏 My name is Sangwoo Park, and I am currently an undergraduate student at Yonsei University, majoring in computer science. I am currently under research Intership at KAIST(Korea Advanced Institute of Science Technology) MLAI lab. My research interests span over diverse topics, but mainly in NLP and solving real world tasks. I am especially interested in embodied agents, multimodal learning, RAG and large language models. 
 
 
 ## Education
 
 - **B.S in Yonsei University, Seoul(South Korea)**
-    - **Major:** *Department of Computer Science* (Mar. 2021 ~ ongoing)
+    - **Major:** *Department of Computer Science* (Mar. 2021 ~ Ongoing)
     - **GPA:** 4.11/4.3
 
 ## News
+- **[Oct. 2024]** I started my research internship at KAIST MLAI lab.
 - **[Jul. 2024]** I finished my research internship at Yonsei University DLI lab.
 
 ## Awards
@@ -25,10 +26,10 @@ layout: homepage
 - **[Aug. 2021]** Yonsei University 2021-1 Honors(top 10% of students in their respective field of study)
 
 ## Experience
-- **Yonsei University DLI Lab NLP Group Research Internship [Jul. 2023 ~ Jul. 2024]**
-    - Participated in NLP Medical AI project to enhance diagnosis of Alzheimer disease, using CoT prompting on Large Language Models to collect filtered diagnostic
-    data, which was later distilled to smaller language models securing both stability and efficiency.
-    - Major participant in research project aiming to build a framework that can enhance the reasoning capabilities of Large Language Models as decision making agents in real-world website environment, without use of reinforcement learning, reducing the need of heavy computing resources.
+- **Research Internship @ KAIST MLAI lab[Oct. 2024 ~ Ongoing]**
+- **Research Internship @ Yonsei University DLI lab [Jul. 2023 ~ Jul. 2024]**
+    - Participated in NLP Medical AI project to enhance diagnosis of Alzheimer disease, using CoT prompting on Large Language Models.
+    - Major participant in research project that aims to enhance the reasoning capabilities of Large Language Models as decision making agents in real-world website environment, without use of reinforcement learning, reducing the need of heavy computing resources.
 
 
 {% include_relative _includes/publications.md %}
