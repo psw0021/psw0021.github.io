@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-👏Thank You for visiting my website👏 My name is Sangwoo Park, and I am currently an undergraduate student at Yonsei University, majoring in computer science. I am currently under research Intership at KAIST(Korea Advanced Institute of Science Technology) MLAI lab. My research interests span over diverse topics, but mainly in NLP and solving real world tasks. I am especially interested in embodied agents, multimodal learning, RAG and large language models. 
+👏Thank You for visiting my website👏 My name is Sangwoo Park, and I am currently an undergraduate student at Yonsei University, majoring in computer science. I am currently working as research Intern at KAIST(Korea Advanced Institute of Science Technology) MLAI lab. My research interests span over diverse topics, but mainly in NLP and solving real world tasks. I am especially interested in embodied agents, multimodal learning, RAG and large language models. 
 
 
 ## Education
@@ -26,7 +26,7 @@ layout: homepage
 - **[Aug. 2021]** Yonsei University 2021-1 Honors(top 10% of students in their respective field of study)
 
 ## Experience
-- **Research Internship @ KAIST MLAI lab[Oct. 2024 ~ Ongoing]**
+- **Research Internship @ KAIST MLAI lab [Oct. 2024 ~ Ongoing]**
 - **Research Internship @ Yonsei University DLI lab [Jul. 2023 ~ Jul. 2024]**
     - Participated in NLP Medical AI project to enhance diagnosis of Alzheimer disease, using CoT prompting on Large Language Models.
     - Major participant in research project that aims to enhance the reasoning capabilities of Large Language Models as decision making agents in real-world website environment, without use of reinforcement learning, reducing the need of heavy computing resources.
