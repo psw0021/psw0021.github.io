@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-👏Thank You for visiting my website👏 My name is Sangwoo Park, and I am currently an undergraduate student at **Yonsei University**, majoring in computer science, working as research Intern at **KAIST(Korea Advanced Institute of Science and Technology) MLAI lab**. My research interests span over diverse topics, but mainly in **NLP and solving real world tasks**. I am especially interested in **embodied agents(real-world decision making), multimodal learning, RAG and large language models**. 
+👏Thank You for visiting my website👏 My name is **Sangwoo Park**, and I am currently an undergraduate student at **Yonsei University**, majoring in **computer science**, working as research Intern at **KAIST(Korea Advanced Institute of Science and Technology) MLAI lab**. My research interests span over diverse topics, but mainly in **NLP and solving real world tasks**. I am especially interested in **embodied agents(real-world decision making), multimodal learning, RAG and large language models**. 
 
 
 ## Education
