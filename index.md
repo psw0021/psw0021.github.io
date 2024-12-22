@@ -27,8 +27,8 @@ layout: homepage
 - **[Aug. 2021]** Yonsei University 2021-1 Honors(top 10% of students in their respective field of study)
 
 ## Experience
-- **Research Internship @ KAIST MLAI lab [Oct. 2024 ~ Ongoing]**
-- **Research Internship @ Yonsei University DLI lab [Jul. 2023 ~ Jul. 2024]**
+- **Research Intern @ KAIST MLAI lab [Oct. 2024 ~ Ongoing]**
+- **Research Intern @ Yonsei University DLI lab [Jul. 2023 ~ Jul. 2024]**
     - Participated in NLP Medical AI project to enhance diagnosis of Alzheimer disease, using CoT prompting on Large Language Models.
     - Major participant in research project that aims to enhance the reasoning capabilities of Large Language Models as decision making agents in real-world website environment, without use of reinforcement learning, reducing the need of heavy computing resources.
 
