@@ -1,18 +1,18 @@
 # Basic Information 
 title: Sangwoo Park
-position: Undergraduate Student
-affiliation: Yonsei University
-email: jackson0530@yonsei.ac.kr
+position: Master's Student
+affiliation: KAIST
+email: jackson0530@kaist.ac.kr
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Sangwoo Park
-description: Profile of Undergraduate at Yonsei
+description: Profile of Sangwoo Park
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar:
+google_scholar: https://scholar.google.com/citations?user=28IZUA4AAAAJ&hl=ko
 cv_link: assets/files/Sangwoo_Park_CV.pdf
 github_link: https://github.com/psw0021
 linkedin: https://www.linkedin.com/in/sangwoo-park-0494252b2/

@@ -4,16 +4,18 @@ layout: homepage
 
 ## About Me
 
-👏Thank You for visiting my website👏 My name is **Sangwoo Park**, and I am undergraduate student at **Yonsei University**, majoring in **computer science**. I am currently working as research Intern at **KAIST(Korea Advanced Institute of Science and Technology) MLAI lab**. My research interests span over diverse topics, but mainly in **NLP and solving real world tasks**. I am especially interested in **embodied agents(real-world decision making), multimodal learning, RAG and large language models**. 
+👏Thank You for visiting my website👏 My name is **Sangwoo Park**, and I am currently a Master's Student at **KAIST(Korea Advanced Institute of Science and Technology) MLAI Lab**, under the supervision of professor Sung Ju Hwang. I received my Bachelor's degree at Yonsei University, majoring in Computer Science. My research interests span over diverse topics, but mainly in Large Language Models, RAG(Retrieval and both Generation), RLHF and its agentic applications. I am especially interested in Research Automation in the Academic Field using agentic capabilities of LLMs, along with solving general, sophisticated multi-turn real world decisions of both digital and physical agents. 
 
 
 ## Education
-
-- **B.S in Yonsei University, Seoul(South Korea)**
-    - **Major:** *Department of Computer Science* (Mar. 2021 ~ Ongoing)
+- **M.S @ KAIST, Seoul/Daejeon(South Korea)**
+    - *Kim Jaechul Graduate School of AI* (Sep.2025 ~) 
+- **B.S @ Yonsei University, Seoul(South Korea)**
+    - **Major:** *Department of Computer Science* (Mar. 2021 ~ Aug. 2025)
     - **GPA:** 4.11/4.3
 
 ## News
+- **[Aug. 2025]** I started M.S program at KAIST MLAI lab
 - **[Oct. 2024]** I started my research internship at KAIST MLAI lab.
 - **[Jul. 2024]** I finished my research internship at Yonsei University DLI lab.
 - **[June. 2023]** I started my research internship at Yonsei University DLI lab.
@@ -27,10 +29,8 @@ layout: homepage
 - **[Aug. 2021]** Yonsei University 2021-1 Honors(top 10% of students in their respective field of study)
 
 ## Experience
-- **Research Intern @ KAIST MLAI lab [Oct. 2024 ~ Ongoing]**
+- **Research Intern @ KAIST MLAI lab [Oct. 2024 ~ Aug. 2025]**
 - **Research Intern @ Yonsei University DLI lab [Jul. 2023 ~ Jul. 2024]**
-    - Participated in NLP Medical AI project to enhance diagnosis of Alzheimer disease, using CoT prompting on Large Language Models.
-    - Major participant in research project that aims to enhance the reasoning capabilities of Large Language Models as decision making agents in real-world website environment, without use of reinforcement learning, reducing the need of heavy computing resources.
 
 
 {% include_relative _includes/publications.md %}
