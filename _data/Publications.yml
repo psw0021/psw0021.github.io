@@ -5,6 +5,6 @@ main:
     conference: "arxiv Preprint, 2025."
     pdf: "https://arxiv.org/pdf/2507.10057"
     code: "https://github.com/psw0021/Chain-of-Retrieval.git"
-    bibtex: "https://bib.yliu.me/MICCAI23.txt"
+    bibtex: ""
     image: "./assets/img/chain-of-retrieval.png"
     notes: "Preprint version"
