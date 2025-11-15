@@ -1,10 +1,10 @@
 main:
-  - title: Chain of Retrieval: Multi-Aspect Iterative Search Expansion and Post-Order Search Aggregation for Full Paper Retrieval
-    authors: Sangwoo Park, Jinheon Baek, Soyeong Jeong, Sung Ju Hwang
-    conference_short: arxiv Preprint, 2025
-    conference: arxiv Preprint, 2025.
-    pdf: https://arxiv.org/pdf/2507.10057
-    code: https://github.com/psw0021/Chain-of-Retrieval.git
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/chain-of-retrieval.png
-    notes: Preprint version
+  - title: "Chain of Retrieval: Multi-Aspect Iterative Search Expansion and Post-Order Search Aggregation for Full Paper Retrieval"
+    authors: "Sangwoo Park, Jinheon Baek, Soyeong Jeong, Sung Ju Hwang"
+    conference_short: "arxiv Preprint, 2025"
+    conference: "arxiv Preprint, 2025."
+    pdf: "https://arxiv.org/pdf/2507.10057"
+    code: "https://github.com/psw0021/Chain-of-Retrieval.git"
+    bibtex: "https://bib.yliu.me/MICCAI23.txt"
+    image: "./assets/img/chain-of-retrieval.png"
+    notes: "Preprint version"
