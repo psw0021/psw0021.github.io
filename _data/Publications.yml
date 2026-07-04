@@ -4,7 +4,7 @@ main:
     conference_short: "arxiv Preprint, 2025"
     conference: "arxiv Preprint, 2025."
     pdf: "https://arxiv.org/pdf/2507.10057"
-    code: "https://github.com/psw0021/Chain-of-Retrieval.git"
+    code: "https://github.com/psw0021/Chain-of-Retrieval-Official"
     bibtex: ""
     image: "./assets/img/chain-of-retrieval.png"
     notes: "Preprint version"
