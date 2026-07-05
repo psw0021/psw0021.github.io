@@ -6,5 +6,5 @@ main:
     pdf: "https://arxiv.org/pdf/2507.10057"
     code: "https://github.com/psw0021/Chain-of-Retrieval-Official"
     bibtex: ""
-    image: "./assets/img/chain-of-retrieval.png"
+    image: "./assets/img/chain-of-retrieval_resized.png"
     notes: "Preprint version"

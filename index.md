@@ -4,8 +4,16 @@ layout: homepage
 
 ## About Me
 
-👏Thank You for visiting my website👏 My name is **Sangwoo Park**, and I am currently a Master's Student at **KAIST(Korea Advanced Institute of Science and Technology) MLAI Lab**, under the supervision of professor Sung Ju Hwang. I received my Bachelor's degree at Yonsei University, majoring in Computer Science. My research interests span over diverse topics, but mainly in Large Language Models, RAG(Retrieval and both Generation). Recently, I am especially interested in Research Automation and Scientific Discovery with the power of LLMs, along with solving sophisticated multi-turn real world decision making problems of digital computer-use agents. 
+👏Thank You for visiting my website👏 My name is **Sangwoo Park**, and I am currently a Master's Student at **KAIST(Korea Advanced Institute of Science and Technology) MLAI Lab**, under the supervision of professor Sung Ju Hwang. I received my Bachelor's degree at Yonsei University, majoring in Computer Science.
 
+## Research Interest
+
+My research interests broadly lie in the development of intelligent AI systems, with a particular emphasis on:
+
+* **Large Language Models (LLMs)**: Post-training methods for improving alignment, reasoning, and general capabilities.
+* **Retrieval-Augmented Generation (RAG)**: Multimodal retrieval techniques and retrieval-augmented systems for grounding LLMs with diverse knowledge sources.
+* **AI Agents**: Autonomous agents capable of computer use, multimodal perception, long-horizon planning, and sophisticated tool chaining for complex real-world tasks.
+* **AI for Science**: Applying LLMs and AI agents to research automation and scientific discovery, with applications in molecular and materials discovery.
 
 ## Education
 - **M.S @ KAIST, Seoul/Daejeon(South Korea)**
