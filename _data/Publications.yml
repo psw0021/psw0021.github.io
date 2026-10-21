@@ -1,4 +1,14 @@
 main:
+  - title: "Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay"
+    authors: "Byeonghun Bang, Sangwoo Park, Jinheon Baek, Kangsan Kim, Youngwan Lee, Sung Ju Hwang"
+    conference_short: "arxiv Preprint, 2026"
+    conference: "arxiv Preprint, 2026."
+    pdf: "https://arxiv.org/pdf/2610.27954"
+    code: "https://github.com/BangProx/ReTRACE"
+    bibtex: ""
+    image: "./assets/img/ReTrace.png"
+    notes: "Under Review at NAACL 2027"
+
   - title: "Chain of Retrieval: Multi-Aspect Iterative Search Expansion and Post-Order Search Aggregation for Full Paper Retrieval"
     authors: "Sangwoo Park, Jinheon Baek, Soyeong Jeong, Sung Ju Hwang"
     conference_short: "arxiv Preprint, 2025"
@@ -7,4 +17,4 @@ main:
     code: "https://github.com/psw0021/Chain-of-Retrieval-Official"
     bibtex: ""
     image: "./assets/img/chain-of-retrieval_resized.png"
-    notes: "Preprint version"
+    notes: "Under Review at NAACL 2027"
