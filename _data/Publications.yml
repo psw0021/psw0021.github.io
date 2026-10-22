@@ -6,7 +6,7 @@ main:
     pdf: "https://arxiv.org/pdf/2610.27954"
     code: "https://github.com/BangProx/ReTRACE"
     bibtex: ""
-    image: "./assets/img/ReTrace_resized.png"
+    image: "./assets/img/ReTrace.png"
     notes: "Under Review at NAACL 2027"
 
   - title: "Chain of Retrieval: Multi-Aspect Iterative Search Expansion and Post-Order Search Aggregation for Full Paper Retrieval"
