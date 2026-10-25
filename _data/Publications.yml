@@ -1,6 +1,6 @@
 main:
   - title: "Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay"
-    authors: "Byeonghun Bang*, Sangwoo Park*, Jinheon Baek, Kangsan Kim, Youngwan Lee, Sung Ju Hwang, (* denotes equal contribution)"
+    authors: "Byeonghun Bang*, <strong>Sangwoo Park*</strong>, Jinheon Baek, Kangsan Kim, Youngwan Lee, Sung Ju Hwang, (* denotes equal contribution)"
     conference_short: "arxiv Preprint, 2026"
     conference: "arxiv Preprint, 2026."
     pdf: "https://arxiv.org/pdf/2610.27954"
@@ -10,7 +10,7 @@ main:
     notes: "Under Review at NAACL 2027"
 
   - title: "Chain of Retrieval: Multi-Aspect Iterative Search Expansion and Post-Order Search Aggregation for Full Paper Retrieval"
-    authors: "Sangwoo Park, Jinheon Baek, Soyeong Jeong, Sung Ju Hwang"
+    authors: "<strong>Sangwoo Park</strong>, Jinheon Baek, Soyeong Jeong, Sung Ju Hwang"
     conference_short: "arxiv Preprint, 2025"
     conference: "arxiv Preprint, 2025."
     pdf: "https://arxiv.org/pdf/2507.10057"
