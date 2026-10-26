@@ -1,4 +1,14 @@
 main:
+  - title: "Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery"
+    authors: "Dongki Kim*, <strong>Sangwoo Park*</strong>, Jinheon Baek, Soyeong Jeong, Sung Ju Hwang, (* denotes equal contribution)"
+    conference_short: "arxiv Preprint, 2026"
+    conference: "arxiv Preprint, 2026."
+    pdf: "https://arxiv.org/pdf/2610.32195"
+    code: "https://github.com/DongkiKim95/Principia"
+    bibtex: ""
+    image: "./assets/img/Principia.png"
+    notes: "Under Review at ICLR 2027"
+
   - title: "Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay"
     authors: "Byeonghun Bang*, <strong>Sangwoo Park*</strong>, Jinheon Baek, Kangsan Kim, Youngwan Lee, Sung Ju Hwang, (* denotes equal contribution)"
     conference_short: "arxiv Preprint, 2026"
