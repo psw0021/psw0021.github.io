@@ -39,6 +39,11 @@ My research interests broadly lie in the development of intelligent AI systems, 
 - **Research Intern @ KAIST MLAI lab [Oct. 2024 ~ Aug. 2025]**
 - **Research Intern @ Yonsei University DLI lab [Jul. 2023 ~ Jul. 2024]**
 
+## Academic Services
+- **Teaching Assistant @ KAIST**
+    - **[Fall 2026]** *AI 89900 Special Topics on Artificial Intelligence (Agentic AI)*
+    - **[Spring 2026]** *AI 89900 Special Topics on Artificial Intelligence (Agentic AI)*
+
 
 {% include_relative _includes/publications.md %}
 
