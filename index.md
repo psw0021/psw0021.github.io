@@ -41,7 +41,6 @@ My research interests broadly lie in the development of intelligent AI systems, 
 
 ## Academic Services
 - **Reviewer@ICLR 2027**
-
 - **Teaching Assistant @ KAIST**
     - **[Fall 2026]** *AI 89900 Special Topics on Artificial Intelligence (Agentic AI)*
     - **[Spring 2026]** *AI 89900 Special Topics on Artificial Intelligence (Agentic AI)*
