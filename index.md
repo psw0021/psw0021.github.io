@@ -10,8 +10,8 @@ layout: homepage
 
 My research interests broadly lie in the development of intelligent AI systems, with a particular emphasis on:
 * **Large Language Models (LLMs)**: Post-training methods for improving alignment, reasoning, and general capabilities.
-* **Computer-Use Agents**: Multimodal perception, long-horizon planning, and sophisticated tool chaining for complex computer-use tasks.
 * **AI for Science**: Applying LLMs and AI agents to research automation and scientific discovery, with applications in molecular and materials discovery.
+* **Computer-Use Agents**: Multimodal perception, long-horizon planning, and sophisticated tool chaining for complex computer-use tasks.
 * **Retrieval-Augmented Generation (RAG)**: Multimodal retrieval techniques and retrieval-augmented systems for grounding LLMs with diverse knowledge sources.
 
 ## Education
